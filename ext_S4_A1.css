@@ -1,0 +1,29 @@
+#tri {
+	
+	
+	margin-left: 20px;
+	margin-top:10px;
+	width: 20px;
+	
+	float:left;
+	border-top: 20px solid white;
+	border-left: 50px solid white;
+	border-bottom: 20px solid white;
+	border-right: 50px solid deepskyblue;
+}
+#square{
+	
+	float:left;
+	width:80px;
+	height:80px;
+	border-radius: 10px;
+	background-color: deepskyblue;
+	border-top: 10px solid deepskyblue;
+	border-left: 10px solid deepskyblue;
+	border-bottom: 10px solid deepskyblue;
+	border-right: 50px solid deepskyblue;
+}
+
+.eoa {
+	clear: left;
+}
